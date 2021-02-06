@@ -8,4 +8,4 @@
 
 ## 如何使用
 
-使用 Base64 解码 `peers.txt` 文件，然后然后讲其中的一些节点加入你的 IPFS 配置文件中的`Bootstrap`部分。
+使用 Base64 解码 `peers.txt` 文件，然后然后将其中的一些节点加入你的 IPFS 配置文件中的`Bootstrap`部分。
