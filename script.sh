@@ -1,2 +1,2 @@
 #!/bin/bash
-ipfs swarm peers | base64 > peers.txt
+/usr/local/bin/ipfs swarm peers | base64 > peers.txt
